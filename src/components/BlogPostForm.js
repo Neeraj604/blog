@@ -26,15 +26,15 @@ BlogPostForm.defaultProps={
 
 const styles = StyleSheet.create({
     input:{
-        fontSize:18,
+        fontSize:20,
         borderWidth:1,
         height:'auto',
         borderColor:'black',
-        margin:5,
+        margin:7,
         padding:5
     },
     label:{
-        fontSize: 22,
+        fontSize: 25,
         marginBottom:10,
         marginLeft:5
     },
