@@ -36,7 +36,7 @@ function MyStack() {
           component={ShowScreen}
           options={{
             headerStyle:{
-              backgroundColor:'blue'
+              backgroundColor:'green'
             }
             }}
           />
