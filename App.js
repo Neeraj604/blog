@@ -24,7 +24,7 @@ function MyStack() {
             headerStyle: {
               backgroundColor: 'rgb(44, 62, 80)',
             },
-            headerTintColor: 'yellow',
+            headerTintColor: 'blue',
             headerTitleStyle: {
               fontWeight: '500',
             },
@@ -36,7 +36,7 @@ function MyStack() {
           component={ShowScreen}
           options={{
             headerStyle:{
-              backgroundColor:'blue'
+              backgroundColor:'green'
             }
             }}
           />
