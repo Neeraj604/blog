@@ -25,12 +25,12 @@ const ShowScreen = ({route, navigation })=>{
         </View>
     )
 }
-
+//don't know what is this
 const styles = StyleSheet.create({
     head:{
-        width:100,
-        borderBottomWidth:1,
-        borderBottomColor:'rgb(44, 62, 80)',
+        width:150,
+        borderBottomWidth:2,
+        borderBottomColor:'rgb(44, 50, 80)',
         paddingBottom:2
     }
 });
